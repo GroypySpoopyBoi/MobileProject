@@ -17,7 +17,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
     CountDownTimer timer;
-    Button addview;
+    Button add;
     Button button1;
     Button button2;
     Button button3;
